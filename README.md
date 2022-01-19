@@ -55,7 +55,7 @@
 
 ## **My certificates**
 
-<img src="./certificates/javascript_basics.png" width="250">
+<a href="https://www.hackerrank.com/certificates/b9b95dd55373" target="_blank"><img src="./certificates/javascript_basics.png" width="250"></a>
 
 ## **Contact me** : 
 📫 [![Mail Badge](https://img.shields.io/badge/-info@blackdayz.de-blue?style=flat-roundedrectangle&logoColor=white&link=mailto:info@blackdayz..de)](info@blackdayz.de) [![Instagram Badge](https://img.shields.io/badge/-blackdayz_de-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/blackdayz_de/)](https://www.instagram.com/blackdayz_de/)
