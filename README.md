@@ -51,6 +51,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+----
+
+## **My certificates**
+
+<img src="./certificates/javascript_basics.png" width="250">
+
 ## **Contact me** : 
 📫 [![Mail Badge](https://img.shields.io/badge/-info@blackdayz.de-blue?style=flat-roundedrectangle&logoColor=white&link=mailto:info@blackdayz..de)](info@blackdayz.de) [![Instagram Badge](https://img.shields.io/badge/-blackdayz_de-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/blackdayz_de/)](https://www.instagram.com/blackdayz_de/)
 
