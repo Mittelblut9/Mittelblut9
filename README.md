@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FjqSSLhgPdKQ43kulBu%2Fgiphy.gif&f=1&nofb=1" width="100"><br> Hello There 👋</h1>
 
-### 👋 Hey, my name is obviously `Mittelblut9` I'm `18 years` old and a `Junior Web Developer` living in Germany <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.worldatlas.com%2Fupload%2F63%2F3f%2F7a%2Funtitled-design-281.jpg&f=1&nofb=1" width=20>
+### 👋 Hey, my name is obviously `Mittelblut9` I'm `19 years` old and a `Junior Web Developer` living in Germany <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.worldatlas.com%2Fupload%2F63%2F3f%2F7a%2Funtitled-design-281.jpg&f=1&nofb=1" width=20>
 
 ### 🧑🏼‍🎓 At the moment I am completing my `training as a technical design assistant`
 
