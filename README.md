@@ -1,7 +1,7 @@
 
-<h1 style="text-align: center; font-weight: 700; font-size: 3rem; margin: 80px 0"><p>Hello There 👋</p>
+<h1 align="center" style="text-align: center; font-weight: 700; font-size: 3rem; margin: 80px 0"><p>Hello There 👋</p>
 
-<div id="badges_top" >
+<div id="badges_top">
   <a href="https://www.instagram.com/blackdayz_de/">
     <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -39,7 +39,7 @@
 - 🧑‍🎓 <b>Currently completing my training as a `technical design assistant`</b>
 - 👨‍💻 <b>My top languages:</b>
 
-<h5 style="text-align:center; margin: 40px 0">
+<h5 algin="center" style="text-align:center; margin: 40px 0">
 
 ![Mittelblut9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9&theme=tokyonight&hide_border=true&layout=compact)
 
