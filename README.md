@@ -1,33 +1,55 @@
 
-<h1 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FjqSSLhgPdKQ43kulBu%2Fgiphy.gif&f=1&nofb=1" width="100"><br> Hello There 👋</h1>
+<h1 style="text-align: center; font-weight: 700; font-size: 3rem; margin: 80px 0"><p>Hello There 👋</p>
 
-### 👋 Hey, my name is obviously `Mittelblut9` I'm `19 years` old and a `Junior Web Developer` living in Germany <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.worldatlas.com%2Fupload%2F63%2F3f%2F7a%2Funtitled-design-281.jpg&f=1&nofb=1" width=20>
+<div id="badges_top" >
+  <a href="https://www.instagram.com/blackdayz_de/">
+    <img src=" 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.blackdayz.de/">
+    <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Mittelblut">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-### 🧑🏼‍🎓 At the moment I am completing my `training as a technical design assistant`
 
-### 🌤 Most of the days i'm working on projects like websites or my own [Discord Bot](https://github.com/Mittelbots)
+<div id="badges_bottom" style="display: flex; justify-content: center; margin: 15px 0">
+    <img src="https://komarev.com/ghpvc/?username=Mittelblut9&style=flat-square&color=blue" alt="" style="margin: 0 10px"/>
+    <img src="https://img.shields.io/github/followers/Mittelblut9.svg?style=social&label=Follow&maxAge=2592000" style="margin: 0 10px">
 
-#### 🎮 or i play video games 
+</div>
+
+</h1>
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" width="100%" style="margin-top: -40px">
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
 
-## 🚀 **I don't trust any statistics that I haven't falsified myself**
+## 👨‍💻 <b>About Me</b>
+
+<p>I am a Junior Web Developer from Germany <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.worldatlas.com%2Fupload%2F63%2F3f%2F7a%2Funtitled-design-281.jpg&f=1&nofb=1" width=20></p>
+
+- 🚶 <b>19 y/o</b>
+- 🔎 <b>Always searching for `open source colloborations`</b>
+- 🧑‍🎓 <b>Currently completing my training as a `technical design assistant`</b>
+- 👨‍💻 <b>My top languages:</b>
+
+<h5 style="text-align:center; margin: 40px 0">
+
+![Mittelblut9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9&theme=tokyonight&hide_border=true&layout=compact)
+
+</h5>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-![Mittelblut9's github stats](https://github-readme-stats.vercel.app/api?username=Mittelblut9&show_icons=true&theme=tokyonight&hide_border=true) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
-![Mittelblut9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9&theme=tokyonight&hide_border=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
-
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mittelblut9&theme=react-dark&hide_border=true)](Mittelblut9)
-
-<div style="display: flex; justify-content:center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mittelblut9&theme=darkhub" />
-</div>
-
-----
 ## 🌱 **My list of knowlegde:**
 
 <br>
@@ -58,18 +80,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----
+<br>
+<br>
 
-<!-- ## **My certificates**
+## 🚀 **I don't trust any statistics that I haven't falsified myself**
 
-<a href="https://www.hackerrank.com/certificates/b9b95dd55373" target="_blank"><img src="./certificates/javascript_basics.png" width="250"></a> -->
+<br>
 
-## **Contact me** : 
-📫 [![Mail Badge](https://img.shields.io/badge/-info@blackdayz.de-blue?style=flat-roundedrectangle&logoColor=white&link=mailto:info@blackdayz..de)](info@blackdayz.de) [![Instagram Badge](https://img.shields.io/badge/-blackdayz_de-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/blackdayz_de/)](https://www.instagram.com/blackdayz_de/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
 
-###### Credit: [AkuraDiary](https://github.com/AkuraDiary)
+[![Mittelblut's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mittelblut9&theme=react-dark&hide_border=true)](Mittelblut9)
 
-----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
+
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+
 ## 🌱 **My private space:**
 
 ### **I'm playing on**
@@ -79,4 +108,4 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 
 <br><br>
-<a href="https://open.spotify.com/user/4eh5x1m6zj3iz844wczkp4gxg?si=506657c460b8435a"><img src="https://img.shields.io/badge/Everything's made%20with-VSCode-1f425f.svg"></a>
+<a href="https://youtu.be/eOgwGM1mdNY"><img src="https://img.shields.io/badge/Everything's made%20with-VSCode-1f425f.svg"></a>
