@@ -1,5 +1,5 @@
 
-<h1 align="center" style="text-align: center; font-weight: 700; font-size: 3rem; margin: 80px 0"><p>Hello There 👋</p>
+<h1 align="center" style="text-align: center; font-weight: 700; font-size: 3rem; margin: 30px 0"><p>Hello There 👋</p>
 
 <div id="badges_top">
   <a href="https://www.instagram.com/blackdayz_de/">
@@ -25,7 +25,9 @@
 
 </h1>
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" width="100%" style="margin-top: -40px">
+💻 My Projects/Organisations: [@Mittelbots](https://github.com/Mittelbots), [@PhenixGames](https://github.com/PhenixGames), [@Blackdayz](https://github.com/BlackDayz).<br>
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" width="100%" style="margin-top: 30px">
 <br>
 <br>
 
