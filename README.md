@@ -41,7 +41,7 @@
 
 - 🚶 <b>19 y/o</b>
 - 🔎 <b>Always searching for `open source colloborations`</b>
-- 🧑‍🎓 <b>Currently completing my training as a `technical design assistant`</b>
+- 🧑‍🎓 <b>`Official trained technical design assistant` ▶️ Next: `Training as an IT specialist for application development`</b>
 - 👨‍💻 <b>My top languages:</b>
 
 <h5 algin="center" style="text-align:center; margin: 40px 0">
@@ -60,6 +60,8 @@
 <br>
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Discord.js-7289da?style=for-the-badge&logo=discord.js&logoColor=white">
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 &nbsp;&nbsp;
