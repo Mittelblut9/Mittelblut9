@@ -23,7 +23,7 @@
 <br />
 <br />
 
-  <img align="right" width="70%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
+  <img align="right" width="60%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
   
 <br/><br/>
 
