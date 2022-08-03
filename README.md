@@ -5,7 +5,7 @@
 
 ### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
 
-### Portfolio: https://Mittelblut9.github.io
+### Website: https://www.blackdayz.de
 
 <a href="https://twitter.com/mittelblut">
   <img align="left" alt="BlackDayz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
@@ -63,9 +63,3 @@
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mittelblut9.Mittelblut9" alt="visitor badge"/>
 </p>
-
------
-
-Credits: [Mittelblut9](https://github.com/Mittelblut9)
-
-Last Edited on: 29/03/2021
