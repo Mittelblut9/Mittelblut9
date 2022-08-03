@@ -54,7 +54,11 @@
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9)
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mittelblut9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mittelbluts Github Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
+
+[![Mittelblut's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mittelblut9&theme=react-dark&hide_border=true)](Mittelblut9)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
 </p>
 
 <p align='center'>
