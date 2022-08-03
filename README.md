@@ -20,9 +20,6 @@
   <img align="left" alt="BlackDayz | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br />
-<br />
-
   <img align="right" width="60%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
   
 <br/><br/>
