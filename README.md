@@ -8,7 +8,7 @@
 ### Portfolio: https://Mittelblut9.github.io
 
 <a href="https://twitter.com/mittelblut">
-  <img align="left" alt="BlackDayz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="BlackDayz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/benedikt-sauer-aab82621a/">
   <img align="left" alt="BlackDayz | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,6 +25,8 @@
 
   <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
   
+<br/><br/>
+
 ### 👨‍💻 Languages and Tools
 
 <br />
