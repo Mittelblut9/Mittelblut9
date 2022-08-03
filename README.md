@@ -3,7 +3,16 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Mittelblut9 I am a Junior Web Developer from Germany.
+
+<br>
+
+- 🚶 <b>19 y/o</b>
+- 🔎 <b>Always searching for `open source colloborations`</b>
+- 🧑‍🎓 <b>`Official trained technical design assistant` ▶️ Next: `Training as an IT specialist for application development`</b>
+- 👨‍💻 <b>My top languages:</b>
+
+<br>
 
 ### Website: https://www.blackdayz.de
 
