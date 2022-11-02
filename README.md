@@ -42,21 +42,21 @@
 
 [![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
+[![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
+[![Shopware 5](https://img.shields.io/badge/-Shopware5-blue?style=flat&logo=shopware&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
+[![Shopware 6](https://img.shields.io/badge/-Shopware6-blue?style=flat&logo=shopware&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
+[![Symfony 6](https://img.shields.io/badge/-Symfony-black?style=flat&logo=symfony&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
+
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9) 
-
+[![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
 [![Homebrew](https://img.shields.io/badge/-Homebrew-white?style=flat&logo=homebrew&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
 
-[![Adobe Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-red?style=flat&logo=adobepremierepro&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat&logo=adobephotoshop&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Adobe XD](https://img.shields.io/badge/-Adobe_XD-gray?style=flat&logo=adobexd&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9) 
+[![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-red?style=flat&logo=davinci&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
 
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9)
 
