@@ -61,6 +61,12 @@
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9)
 
 <p align='center'>
+
+### Badges
+<div style="display:flex; align-items:center">
+    <a href="https://dev.to/mittelblut9" title="Hacktoberfest 2022"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="80px"/> </a>
+</div>
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
 
 [![Mittelblut's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mittelblut9&theme=react-dark&hide_border=true)](Mittelblut9)
