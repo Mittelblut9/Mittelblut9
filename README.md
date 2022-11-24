@@ -3,62 +3,66 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Mittelblut9 I am a Junior Web Developer from Germany.
-
 <br>
 
-- 🚶 <b>19 y/o</b>
-- 🔎 <b>Always searching for `open source colloborations`</b>
-- 🧑‍🎓 <b>`Official trained technical design assistant` ▶️ Next: `Training as an IT specialist for application development`</b>
-
+```js
+class Mittelblut9 {
+    constructor() {
+        this.name = "Ben"
+        this.age = 19
+        this.discord = "Mittelblut9#1974"
+        this.website = "https://www.blackdayz.de"
+    }
+    
+    description() {
+        return "I am a Junior Web Developer from Germany"
+    }
+    
+    knowledge() {
+        return {
+            expert: [Javascript, Node.Js, Git, HTML5, CSS]
+            good: [PHP, VUE3, JQuery, Sequelize, MySQL, Figma]
+            kinda: [Shopware, Shopware5, Shopware6, Docker, Symfony]
+            i_know_it: [DaVinci_Resolve]
+        }
+    }
+    
+    
+    title() {
+        return "🧑‍ Official trained technical design assistant"
+    }
+    
+    isDoing() {
+        return {
+            title: "🧑‍ Training as an IT specialist for application development"
+            where: "Webmatch GmbH"
+        }
+    }
+    
+    searching() {
+        return "🔎 open source colloborations"
+    }
+}
+```
 <br>
-
-### Website: https://www.blackdayz.de
 
 <a href="https://twitter.com/mittelblut">
-  <img align="left" alt="BlackDayz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="left" alt="BlackDayz | Twitter" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
 </a>
 <a href="https://www.linkedin.com/in/benedikt-sauer-aab82621a/">
-  <img align="left" alt="BlackDayz | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="BlackDayz | Linkedin" src="https://img.icons8.com/color/48/null/linkedin-2--v1.png" />
 </a>
 <a href="https://www.instagram.com/blackdayz_de">
-  <img align="left" alt="BlackDayz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="BlackDayz | Instagram" src="https://img.icons8.com/fluency/48/null/instagram-new.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCVXebEQVI5N6-CV7Pnj7J8w">
-  <img align="left" alt="BlackDayz | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="BlackDayz | Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png" />
 </a>
+
 
   <img align="right" width="60%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
   
 <br/><br/>
-
-### 👨‍💻 Languages and Tools
-
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-
-[![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat&logo=sequelize&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Shopware 5](https://img.shields.io/badge/-Shopware5-blue?style=flat&logo=shopware&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Shopware 6](https://img.shields.io/badge/-Shopware6-blue?style=flat&logo=shopware&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Symfony 6](https://img.shields.io/badge/-Symfony-black?style=flat&logo=symfony&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-[![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-[![Homebrew](https://img.shields.io/badge/-Homebrew-white?style=flat&logo=homebrew&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9)
-
-[![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-red?style=flat&logo=davinci&link=https://github.com/Mittelblut9)](https://github.com/Mittelblut9) 
-
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9)](https://github.com/Mittelblut9)
 
