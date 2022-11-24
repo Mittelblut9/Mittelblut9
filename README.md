@@ -60,6 +60,8 @@
 
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat&logo=figma&link=https://github.com/Mittelblut9)](https://gitlab.com/Mittelblut9)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9)](https://github.com/Mittelblut9)
+
 <p align='center'>
 
 ### Badges
