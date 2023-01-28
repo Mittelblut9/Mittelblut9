@@ -49,9 +49,6 @@ class Mittelblut9 {
 <a href="https://twitter.com/mittelblut">
   <img align="left" alt="BlackDayz | Twitter" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
 </a>
-<a href="https://www.linkedin.com/in/benedikt-sauer-aab82621a/">
-  <img align="left" alt="BlackDayz | Linkedin" src="https://img.icons8.com/color/48/null/linkedin-2--v1.png" />
-</a>
 <a href="https://www.instagram.com/blackdayz_de">
   <img align="left" alt="BlackDayz | Instagram" src="https://img.icons8.com/fluency/48/null/instagram-new.png" />
 </a>
