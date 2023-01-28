@@ -20,9 +20,9 @@ class Mittelblut9 {
     
     knowledge() {
         return {
-            expert: [Javascript, Node.Js, Git, HTML5, CSS]
-            good: [PHP, VUE3, JQuery, Sequelize, MySQL, Figma]
-            kinda: [Shopware, Shopware5, Shopware6, Docker, Symfony]
+            expert: [Javascript, Node.Js, Git, HTML5, CSS],
+            good: [PHP, VUE3, JQuery, Sequelize, MySQL, Figma],
+            kinda: [Shopware, Shopware5, Shopware6, Docker, Symfony],
             i_know_it: [DaVinci_Resolve]
         }
     }
@@ -34,7 +34,7 @@ class Mittelblut9 {
     
     isDoing() {
         return {
-            title: "🧑‍ Training as an IT specialist for application development"
+            title: "🧑‍ Training as an IT specialist for application development",
             where: "Webmatch GmbH"
         }
     }
