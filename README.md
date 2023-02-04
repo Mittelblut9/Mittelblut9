@@ -9,7 +9,7 @@
 class Mittelblut9 {
     constructor() {
         this.name = "Ben"
-        this.age = 19
+        this.age = 20
         this.discord = "Mittelblut9#1974"
         this.website = "https://www.blackdayz.de"
     }
