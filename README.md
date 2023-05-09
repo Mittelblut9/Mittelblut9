@@ -83,7 +83,8 @@ class Mittelblut9 {
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mittelblut9)]
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mittelblut9)
+
 </p>
 
 <p align='center'>
