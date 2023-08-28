@@ -55,16 +55,13 @@ class Mittelblut9 {
   <img align="left" alt="BlackDayz | Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png" />
 </a>
 
-
-  <img align="right" width="60%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
-  
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mittelblut9)](https://github.com/Mittelblut9)
-
-<p align='center'>
-
-### Badges
+<img align="left" width="100%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
+  
+<br/><br/>
+    
+## Badges
 <div style="display:flex; align-items:center">
     <a href="https://dev.to/mittelblut9" title="Hacktoberfest 2022"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="80px"/> </a>
 </div>
@@ -84,7 +81,7 @@ class Mittelblut9 {
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mittelblut9)
 
-</p>
+
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mittelblut9.Mittelblut9" alt="visitor badge"/>
