@@ -12,6 +12,7 @@ class Mittelblut9 {
         this.age = 20
         this.discord = "mittelblut9"
         this.website = "https://www.blackdayz.de"
+        this.codespace = "https://discord.gg/AGp4hsccU6"
     }
     
     description() {
