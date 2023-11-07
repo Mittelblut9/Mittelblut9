@@ -74,9 +74,7 @@ class Mittelblut9 {
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
-
-[![Mittelblut's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mittelblut9&theme=react-dark&hide_border=true)](Mittelblut9)
+<img src="https://streak-stats.demolab.com/?user=Mittelblut9&theme=tokyonight&hide_border=true" alt="mystreak"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
 
