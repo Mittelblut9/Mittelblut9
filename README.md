@@ -5,43 +5,67 @@
 
 <br>
 
-```js
-class Mittelblut9 {
+```ts
+class Mittelblut9 implements Developer {
+    name: string
+    age: number
+    discord: string
+    website: string
+    codespace: string
+
     constructor() {
-        this.name = "Ben"
+        this.name = 'Ben'
         this.age = 21
-        this.discord = "mittelblut9"
-        this.website = "https://www.blackdayz.de"
-        this.codespace = "https://discord.gg/AGp4hsccU6"
+        this.discord = 'mittelblut9'
+        this.website = 'https://www.blackdayz.de'
+        this.codespace = 'https://discord.gg/AGp4hsccU6'
     }
     
-    description() {
-        return "I am a Junior Web Developer from Germany"
+    description(): string {
+        return 'I am a Junior Web Developer from Germany'
     }
     
-    knowledge() {
+    knowledge(): Knowledge {
         return {
-            expert: [Javascript, Node.Js, Git, HTML5, CSS],
-            good: [PHP, VUE3, JQuery, Sequelize, MySQL, Figma, Discord.js],
-            kinda: [Shopware, Shopware5, Shopware6, Docker, Symfony]
+            expert: ['Javascript', 'Node.Js', 'Git', 'HTML5', 'CSS'],
+            good: ['PHP', 'VUE3', 'Sequelize', 'MySQL', 'Figma', 'Discord.js', 'Docker', 'Symfony', 'Nuxt.js', 'TypeScript', ],
+            kinda: ['Shopware', 'Shopware5', 'Shopware6']
+        }
+    } 
+    
+    title(): string {
+        return '🧑‍ Official trained technical design assistant'
+    }
+    
+    isDoing(): IsDoing {
+        return {
+            title: '🧑‍ Training as an IT specialist for application development',
+            where: 'Webmatch GmbH'
         }
     }
-    
-    
-    title() {
-        return "🧑‍ Official trained technical design assistant"
-    }
-    
-    isDoing() {
-        return {
-            title: "🧑‍ Training as an IT specialist for application development",
-            where: "Webmatch GmbH"
-        }
-    }
-    
-    searching() {
-        return "🔎 open source colloborations"
-    }
+}
+
+interface Developer {
+    name: string
+    age: number
+    discord: string
+    website: string
+    codespace: string
+    description: () => string
+    knowledge: () => Knowledge
+    title: () => string
+    isDoing: () => IsDoing
+}
+
+interface Knowledge {
+    expert: string[]
+    good: string[]
+    kinda: string[]
+}
+
+interface IsDoing {
+    title: string
+    where: string
 }
 ```
 <br>
@@ -58,17 +82,12 @@ class Mittelblut9 {
 
 <br/><br/>
 
+<details>
+<summary>📊 My GitHub Stats</summary>
+
 <img align="left" width="100%" alt="GIF" src="https://cdn-images-1.medium.com/max/1600/1*JVviONQLmDrdpISk9EC0Mg.gif" />
   
 <br/><br/>
-    
-## Badges
-<div style="display:flex; align-items:center">
-    <a href="https://dev.to/mittelblut9" title="Hacktoberfest 2022"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="80px"/> </a>
-</div>
-<br />
-
-### :pushpin: Holopin Badges
 
 [![@mittelblut9's Holopin board](https://holopin.me/mittelblut9)](https://holopin.io/@mittelblut9)
 
@@ -79,3 +98,4 @@ class Mittelblut9 {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mittelblut9&theme=github_dark)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mittelblut9)
+</details>
