@@ -28,7 +28,7 @@ class Mittelblut9 implements Developer {
     knowledge(): Knowledge {
         return {
             expert: ['Javascript', 'Node.Js', 'Git', 'HTML5', 'CSS'],
-            good: ['PHP', 'VUE3', 'Sequelize', 'MySQL', 'Figma', 'Discord.js', 'Docker', 'Symfony', 'Nuxt.js', 'TypeScript', ],
+            good: ['PHP', 'VUE3', 'Sequelize', 'MySQL', 'Figma', 'Discord.js', 'Docker', 'Symfony', 'Nuxt.js', 'TypeScript'],
             kinda: ['Shopware', 'Shopware5', 'Shopware6']
         }
     } 
