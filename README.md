@@ -1,6 +1,3 @@
-
-![Web-developer](GithubBanner.png)
-    
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <br>
@@ -70,17 +67,11 @@ interface IsDoing {
 ```
 <br>
 
-<a href="https://twitter.com/mittelblut">
-  <img align="left" alt="BlackDayz | Twitter" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
-</a>
-<a href="https://www.instagram.com/blackdayz_de">
-  <img align="left" alt="BlackDayz | Instagram" src="https://img.icons8.com/fluency/48/null/instagram-new.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCVXebEQVI5N6-CV7Pnj7J8w">
-  <img align="left" alt="BlackDayz | Youtube" src="https://img.icons8.com/color/48/null/youtube-play.png" />
+<a href="https://linktr.ee/mittelblut9">
+  <img align="left" width="150" alt="BlackDayz | Linktree" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Symbol.png"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <details>
 <summary>📊 My GitHub Stats</summary>
