@@ -30,14 +30,17 @@ class Mittelblut9 implements Developer {
         }
     } 
     
-    title(): string {
-        return '🧑‍ Official trained technical design assistant'
+    title(): string[] {
+        return [
+            '👩‍🎨 Official trained technical design assistant',
+            '🧑‍💻 Official trained IT specialist for application development'
+        ]
     }
     
     isDoing(): IsDoing {
         return {
-            title: '🧑‍ Training as an IT specialist for application development',
-            where: 'Webmatch GmbH'
+            title: 'Social Media Manager & Web Developer',
+            where: 'Rumathra'
         }
     }
 }
@@ -50,7 +53,7 @@ interface Developer {
     codespace: string
     description: () => string
     knowledge: () => Knowledge
-    title: () => string
+    title: () => string[]
     isDoing: () => IsDoing
 }
 
