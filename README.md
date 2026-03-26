@@ -12,7 +12,7 @@ class Mittelblut9 implements Developer {
 
     constructor() {
         this.name = 'Ben'
-        this.age = 22
+        this.age = 23
         this.discord = 'mittelblut9'
         this.website = 'https://www.blackdayz.de'
         this.codespace = 'https://discord.gg/AGp4hsccU6'
