@@ -25,7 +25,7 @@ class Mittelblut9 implements Developer {
     knowledge(): Knowledge {
         return {
             expert: ['Javascript', 'Node.Js', 'Git', 'HTML5', 'CSS'],
-            good: ['PHP', 'VUE3', 'Sequelize', 'MySQL', 'Figma', 'Discord.js', 'Docker', 'Symfony', 'Nuxt.js', 'TypeScript'],
+            good: ['PHP', 'VUE3', 'Sequelize', 'MySQL', 'Figma', 'Discord.js', 'Docker', 'Symfony', 'Nuxt.js', 'TypeScript', 'MariaDB', 'Postgres', 'Appwrite', 'Supabase'],
             kinda: ['Shopware', 'Shopware5', 'Shopware6']
         }
     } 
@@ -39,8 +39,8 @@ class Mittelblut9 implements Developer {
     
     isDoing(): IsDoing {
         return {
-            title: 'Social Media Manager & Web Developer',
-            where: 'Rumathra'
+            title: 'Me Against the job market',
+            where: 'Indeed'
         }
     }
 }
